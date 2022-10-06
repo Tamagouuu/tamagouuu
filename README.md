@@ -1,4 +1,4 @@
-### Hi there 👋
+### Halo, semua 👋
 
 
 ### Bukan wibu, tapi calon menantu ibumu
