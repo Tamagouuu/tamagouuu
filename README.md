@@ -1,4 +1,4 @@
-### Halo, semua 👋 aku Gautama
+<!-- ### Halo, semua 👋 aku Gautama
 
 <!--
 **Tamagouuu/tamagouuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
