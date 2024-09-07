@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-flame-kappa-68.vercel.app/api?username=tamagouuu&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/tamagouuu">
-  <img align="center" src="https://github-readme-stats-flame-kappa-68.vercel.app/api/top-langs/?username=tamagouuu&layout=compact&theme=tokyonight&langs_count=9" />
+  <img align="center" src="https://github-readme-stats-flame-kappa-68.vercel.app/api/top-langs/?username=tamagouuu&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
