@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gautama's GitHub stats](https://github-readme-stats-flame-kappa-68.vercel.app/api?username=tamagouuu)](https://github.com/tamagouuu/github-readme-stats)
+[![Gautama's GitHub stats](https://github-readme-stats-flame-kappa-68.vercel.app/api?username=tamagouuu&show_icons=true)](https://github.com/tamagouuu/github-readme-stats)
