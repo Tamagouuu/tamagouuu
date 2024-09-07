@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/tamagouuu">
-  <img align="center" src="https://github-readme-stats-flame-kappa-68.vercel.app/api?username=tamagouuu&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-flame-kappa-68.vercel.app/api?username=tamagouuu&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/tamagouuu">
-  <img align="center" src="https://github-readme-stats-flame-kappa-68.vercel.app/api/top-langs/?username=tamagouuu&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-flame-kappa-68.vercel.app/api/top-langs/?username=tamagouuu&theme=tokyonight />
 </a>
