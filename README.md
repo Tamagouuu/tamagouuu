@@ -1,4 +1,4 @@
-<!-- ### Halo, semua 👋 aku Gautama
+ ### Halo, semua 👋 aku Gautama
 
 <!--
 **Tamagouuu/tamagouuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋, I'm Gautama
 
 <div>
   <img style="display:block" align="center" src="https://github-readme-stats-flame-kappa-68.vercel.app/api?username=tamagouuu&show_icons=true&theme=tokyonight" />
